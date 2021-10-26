@@ -28,7 +28,7 @@ sass:
 
 # Author settings
 author:
-  name: "Sifang Feng"
+  name: "Finn"
 
 plugins:
   - jekyll-sitemap
