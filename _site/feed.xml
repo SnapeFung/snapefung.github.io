@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
     <description>None</description>
@@ -8,10 +9,10 @@
     <pubDate>Mon, 11 Oct 2021 23:30:34 +0800</pubDate>
     <lastBuildDate>Mon, 11 Oct 2021 23:30:34 +0800</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
-    
-      <item>
-        <title>How to Download or Use This Theme</title>
-        <description>&lt;h3 id=&quot;use-this-theme-as-you-main-site&quot;&gt;Use this theme as you main site&lt;/h3&gt;
+
+    <item>
+      <title>How to Download or Use This Theme</title>
+      <description>&lt;h3 id=&quot;use-this-theme-as-you-main-site&quot;&gt;Use this theme as you main site&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Download or fork the master branch of this theme repo into your GitHub account.&lt;/li&gt;
@@ -29,28 +30,28 @@
 &lt;p&gt;All you need to do, open &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file, change &lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl&lt;/code&gt; to your project name which contains this theme, e.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl: &quot;/myproject&quot;&lt;/code&gt;.&lt;/p&gt;
 
 &lt;h4 id=&quot;cheers&quot;&gt;Cheers!&lt;/h4&gt;
-</description>
-        <pubDate>Fri, 10 Jun 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2016/how-to-download-or-use-this-theme/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/how-to-download-or-use-this-theme/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>If you have a Guest post..</title>
-        <description>&lt;p&gt;If you think that you’re going to have a guest post… take a look on this post sample. Just add &lt;code class=&quot;highlighter-rouge&quot;&gt;author: GuestName&lt;/code&gt; to the YAML front matter. Then, the &lt;strong&gt;GuestName&lt;/strong&gt; will be appear on the next of post date. Oh, the guest name will be automatically uppercase.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 09 Jun 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2016/if-you-have-a-guest-post/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/if-you-have-a-guest-post/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Markdown Cheatsheet Demo</title>
-        <description>&lt;h2 id=&quot;typography-elements-in-one&quot;&gt;Typography Elements in One&lt;/h2&gt;
+      </description>
+      <pubDate>Fri, 10 Jun 2016 00:00:00 +0800</pubDate>
+      <link>http://localhost:4000/2016/how-to-download-or-use-this-theme/</link>
+      <guid isPermaLink="true">http://localhost:4000/2016/how-to-download-or-use-this-theme/</guid>
+
+
+    </item>
+
+    <item>
+      <title>If you have a Guest post..</title>
+      <description>&lt;p&gt;If you think that you’re going to have a guest post… take a look on this post sample. Just add &lt;code class=&quot;highlighter-rouge&quot;&gt;author: GuestName&lt;/code&gt; to the YAML front matter. Then, the &lt;strong&gt;GuestName&lt;/strong&gt; will be appear on the next of post date. Oh, the guest name will be automatically uppercase.&lt;/p&gt;
+      </description>
+      <pubDate>Thu, 09 Jun 2016 00:00:00 +0800</pubDate>
+      <link>http://localhost:4000/2016/if-you-have-a-guest-post/</link>
+      <guid isPermaLink="true">http://localhost:4000/2016/if-you-have-a-guest-post/</guid>
+
+
+    </item>
+
+    <item>
+      <title>Markdown Cheatsheet Demo</title>
+      <description>&lt;h2 id=&quot;typography-elements-in-one&quot;&gt;Typography Elements in One&lt;/h2&gt;
 
 &lt;p&gt;Let’s start with a informative paragraph. &lt;strong&gt;This text is bolded.&lt;/strong&gt; But not this one! &lt;em&gt;How about italic text?&lt;/em&gt; Cool right? Ok, let’s &lt;strong&gt;&lt;em&gt;combine&lt;/em&gt;&lt;/strong&gt; them together. Yeah, that’s right! I have code to highlight, so &lt;code class=&quot;highlighter-rouge&quot;&gt;ThisIsMyCode()&lt;/code&gt;. What a nice! Good people will hyperlink away, so &lt;a href=&quot;#&quot;&gt;here we go&lt;/a&gt; or &lt;a href=&quot;http://www.example.com&quot;&gt;http://www.example.com&lt;/a&gt;.&lt;/p&gt;
 
@@ -234,17 +235,17 @@ But let's throw in a &amp;lt;b&amp;gt;tag&amp;lt;/b&amp;gt;.
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
-</description>
-        <pubDate>Wed, 30 Dec 2015 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2015/markdown-cheatsheet-demo/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/markdown-cheatsheet-demo/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>The quick, brown fox jumps over a lazy dog</title>
-        <description>&lt;p&gt;The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz.&lt;/p&gt;
+      </description>
+      <pubDate>Wed, 30 Dec 2015 00:00:00 +0800</pubDate>
+      <link>http://localhost:4000/2015/markdown-cheatsheet-demo/</link>
+      <guid isPermaLink="true">http://localhost:4000/2015/markdown-cheatsheet-demo/</guid>
+
+
+    </item>
+
+    <item>
+      <title>The quick, brown fox jumps over a lazy dog</title>
+      <description>&lt;p&gt;The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Brick quiz whangs jumpy veldt fox. Bright vixens jump; dozy fowl quack. Quick wafting zephyrs vex bold Jim. Quick zephyrs blow, vexing daft Jim. Sex-charged fop blew my junk TV quiz. How quickly daft jumping zebras vex.&lt;/strong&gt;&lt;/p&gt;
 
@@ -265,17 +266,17 @@ But let's throw in a &amp;lt;b&amp;gt;tag&amp;lt;/b&amp;gt;.
 &lt;p&gt;Bright vixens jump; dozy fowl quack. Quick wafting zephyrs vex bold Jim. Quick zephyrs blow, vexing daft Jim. Sex-charged fop blew my junk TV quiz. How quickly daft jumping zebras vex. Two driven jocks help fax my big quiz. Quick, Baz, get my woven flax jodhpurs!&lt;/p&gt;
 
 &lt;p&gt;“Now fax quiz Jack! “ my brave ghost pled. Five quacking zephyrs jolt my wax bed. Flummoxed by job, kvetching W. zaps Iraq. Cozy sphinx waves quart jug of bad milk. A very bad quack might jinx zippy fowls. Few quips galvanized the mock jury box. Quick brown dogs jump over the lazy fox. The jay, pig, fox, zebra, and my wolves quack! Blowzy red vixens fight for a quick jump. Joaquin Phoenix was gazed by MTV&lt;/p&gt;
-</description>
-        <pubDate>Mon, 12 Oct 2015 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2015/the-quick-brown-fox-jumps-over-a-lazy-dog/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/the-quick-brown-fox-jumps-over-a-lazy-dog/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>What is Lorem Ipsum?</title>
-        <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+      </description>
+      <pubDate>Mon, 12 Oct 2015 00:00:00 +0800</pubDate>
+      <link>http://localhost:4000/2015/the-quick-brown-fox-jumps-over-a-lazy-dog/</link>
+      <guid isPermaLink="true">http://localhost:4000/2015/the-quick-brown-fox-jumps-over-a-lazy-dog/</guid>
+
+
+    </item>
+
+    <item>
+      <title>What is Lorem Ipsum?</title>
+      <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 
 &lt;h3 id=&quot;where-does-it-come-from&quot;&gt;Where does it come from?&lt;/h3&gt;
 
@@ -294,13 +295,13 @@ But let's throw in a &amp;lt;b&amp;gt;tag&amp;lt;/b&amp;gt;.
 &lt;blockquote&gt;
   &lt;p&gt;This content was copied from http://www.lipsum.com/ as an example of post article.&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-        <pubDate>Fri, 20 Mar 2015 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2015/what-is-lorem-ipsum/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/what-is-lorem-ipsum/</guid>
-        
-        
-      </item>
-    
+      </description>
+      <pubDate>Fri, 20 Mar 2015 00:00:00 +0800</pubDate>
+      <link>http://localhost:4000/2015/what-is-lorem-ipsum/</link>
+      <guid isPermaLink="true">http://localhost:4000/2015/what-is-lorem-ipsum/</guid>
+
+
+    </item>
+
   </channel>
 </rss>
